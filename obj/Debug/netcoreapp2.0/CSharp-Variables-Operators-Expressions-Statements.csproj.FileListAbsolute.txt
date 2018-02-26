@@ -1,0 +1,10 @@
+C:\Projects\CSharp-Variables-Operators-Expressions-Statements\bin\Debug\netcoreapp2.0\CSharp-Variables-Operators-Expressions-Statements.deps.json
+C:\Projects\CSharp-Variables-Operators-Expressions-Statements\bin\Debug\netcoreapp2.0\CSharp-Variables-Operators-Expressions-Statements.runtimeconfig.json
+C:\Projects\CSharp-Variables-Operators-Expressions-Statements\bin\Debug\netcoreapp2.0\CSharp-Variables-Operators-Expressions-Statements.runtimeconfig.dev.json
+C:\Projects\CSharp-Variables-Operators-Expressions-Statements\bin\Debug\netcoreapp2.0\CSharp-Variables-Operators-Expressions-Statements.dll
+C:\Projects\CSharp-Variables-Operators-Expressions-Statements\bin\Debug\netcoreapp2.0\CSharp-Variables-Operators-Expressions-Statements.pdb
+C:\Projects\CSharp-Variables-Operators-Expressions-Statements\obj\Debug\netcoreapp2.0\CSharp-Variables-Operators-Expressions-Statements.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp-Variables-Operators-Expressions-Statements\obj\Debug\netcoreapp2.0\CSharp-Variables-Operators-Expressions-Statements.AssemblyInfoInputs.cache
+C:\Projects\CSharp-Variables-Operators-Expressions-Statements\obj\Debug\netcoreapp2.0\CSharp-Variables-Operators-Expressions-Statements.AssemblyInfo.cs
+C:\Projects\CSharp-Variables-Operators-Expressions-Statements\obj\Debug\netcoreapp2.0\CSharp-Variables-Operators-Expressions-Statements.dll
+C:\Projects\CSharp-Variables-Operators-Expressions-Statements\obj\Debug\netcoreapp2.0\CSharp-Variables-Operators-Expressions-Statements.pdb
